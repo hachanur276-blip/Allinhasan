@@ -1,9 +1,7 @@
 flask
 pandas
 numpy
-ta
-python-telegram-bot==20.7
+python-telegram-bot
 requests
 pytz
 matplotlib
-websocket-client
