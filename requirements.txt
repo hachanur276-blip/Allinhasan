@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+ta
+python-telegram-bot
+requests
+pytz
+matplotlib
+tvdata
