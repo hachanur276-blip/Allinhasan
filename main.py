@@ -45,7 +45,7 @@ def run_flask():
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 if not BOT_TOKEN:
-    BOT_TOKEN = "8753699145:AAHC1L7gUUyJOUgYBCVrSNkGcG9s0DLD4KA"
+    BOT_TOKEN = "8656060831:AAF8V0TDjzyMg5ZX1C8ZOSyitsTFDqDaHL0"
 
 # ==============================================================================
 # ALL REAL FOREX & METALS ASSETS (NO CRYPTO)
