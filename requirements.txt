@@ -1,9 +1,8 @@
 flask
 pandas
 numpy
-ta
 python-telegram-bot
 requests
 pytz
 matplotlib
-websocket-client
+tradingview-ta
